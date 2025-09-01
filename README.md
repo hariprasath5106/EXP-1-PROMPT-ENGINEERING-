@@ -20,7 +20,12 @@ Here are the steps of the process:
 
 
 ## Output
-[exp 1.pdf](https://github.com/user-attachments/files/22070371/exp.1.pdf)
+![PROMT EX1 P_page-0001](https://github.com/user-attachments/assets/891f7d0b-6dcc-43c1-9233-a05a2d1f489c)
+![PROMT EX1 P_page-0002](https://github.com/user-attachments/assets/a60b20f1-fbd9-4dd1-8f89-0a46839a683d)
+![PROMT EX1 P_page-0003](https://github.com/user-attachments/assets/111d46de-48a4-4e08-98e9-ed5caf845f21)
+![PROMT EX1 P_page-0004](https://github.com/user-attachments/assets/f688f828-beaa-4da1-a498-db705c5cb128)
+![PROMT EX1 P_page-0005](https://github.com/user-attachments/assets/a09879d8-4e5f-4758-9a77-2c448b5483ec)
+![PROMT EX1 P_page-0006](https://github.com/user-attachments/assets/f90d4007-8ac3-4575-8458-f980d5756482)
 
 
 ## Result
